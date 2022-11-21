@@ -159,7 +159,7 @@
                         <div class="team-hover">
                             <div class="desk">
                                 <h4>Vocal Percussion</h4>
-                                <p>quote</p>
+                                <p>Quote</p>
                             </div>
                         </div>
                     </div>
@@ -181,7 +181,7 @@
                         <div class="team-hover">
                             <div class="desk">
                                 <h4>Bass</h4>
-                                <p>quote</p>
+                                <p>Quote</p>
                             </div>
                         </div>
                     </div>
@@ -201,7 +201,7 @@
 
                 <!-- NEW ROW EVERY 4 MEMBERS -->
                 <!-- LIST NAMES HERE FOR QUICK REFERENCE -->
-                <!--  Daric Zhou -->
+                <!--  Daric Zhou Seth Purohit Daniel Roth Miguel Ocegueda -->
                 <div class = "row" style = "margin-top:50px;">
                     
                 <!-- NEW MEMBER HERE -->
@@ -221,7 +221,205 @@
                     <div class="team-title">
                         <h4>Daric Zhou (he/him)</h4>
                         <h5></h5>
-                        <span>3rd Year,Applied Mathematics</span>
+                        <span>3rd Year, Applied Mathematics</span>
+                    </div>
+                </div>
+
+
+                <!-- NEW MEMBER HERE -->
+
+                <div class="col-md-3 col-sm-3" style="margin-bottom:15px">
+                    <div class="team-member">
+                        <div class="team-img">
+                            <img src="img/members/SethPurohit.jpg" id = "Seth Purohit" alt="photo of Seth Purohit" class="img-responsive">
+                        </div>
+                        <div class="team-hover">
+                            <div class="desk">
+                                <h4>Tenor II</h4>
+                                <p>Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-title">
+                        <h4>Seth Purohit (he/him)</h4>
+                        <h5></h5>
+                        <span>1st Year, Pre-Bio</span>
+                    </div>
+                </div>
+
+
+                <!-- NEW MEMBER HERE -->
+
+                <div class="col-md-3 col-sm-3" style="margin-bottom:15px">
+                    <div class="team-member">
+                        <div class="team-img">
+                            <img src="img/members/DanielRoth.jpg" id = "Daniel Roth" alt="photo of Daniel Roth" class="img-responsive">
+                        </div>
+                        <div class="team-hover">
+                            <div class="desk">
+                                <h4>Tenor I</h4>
+                                <p>Every experience is an opportunity for a story.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-title">
+                        <h4>Daniel Roth (he/him)</h4>
+                        <h5></h5>
+                        <span>2nd Year, Biochemistry</span>
+                    </div>
+                </div>
+
+
+                <!-- NEW MEMBER HERE -->
+
+                <div class="col-md-3 col-sm-3" style="margin-bottom:15px">
+                    <div class="team-member">
+                        <div class="team-img">
+                            <img src="img/members/MiguelOcegueda.jpg" id = "Miguel Ocegueda" alt="photo of Miguel Ocegueda" class="img-responsive">
+                        </div>
+                        <div class="team-hover">
+                            <div class="desk">
+                                <h4>Baritone</h4>
+                                <p>Darkness cannot drive out darkness, only light can do that. Hate cannot drive out hate, only love can do that.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-title">
+                        <h4>Miguel Ocegueda (he/him/el)</h4>
+                        <h5></h5>
+                        <span>2nd Year, Pre-Bio</span>
+                    </div>
+                </div>
+
+
+                </div>
+                <!-- END OF A FOUR PEOPLE BLOCK -->
+
+    
+                <!-- USE THIS TEMPLATE FOR EACH NEW ROW. REPLACE NAME/MAJOR/PARTS/POSITION/QUOTE PLACEHOLDER -->
+
+                <!-- NEW ROW EVERY 4 MEMBERS -->
+                <!-- LIST NAMES HERE FOR QUICK REFERENCE -->
+                <!--  Jimmy Mack Aaron Zolla Andrew White Robson Little -->
+                <div class = "row" style = "margin-top:50px;">
+                    
+                <!-- NEW MEMBER HERE -->
+
+                <div class="col-md-3 col-sm-3" style="margin-bottom:15px">
+                    <div class="team-member">
+                        <div class="team-img">
+                            <img src="img/members/JimmyMack.jpg" id = "Jimmy Mack" alt="photo of Jimmy Mack" class="img-responsive">
+                        </div>
+                        <div class="team-hover">
+                            <div class="desk">
+                                <h4>Tenor I</h4>
+                                <p>Sometimes you just have to blow things up, and that's okay.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-title">
+                        <h4>Jimmy Mack (he/him)</h4>
+                        <h5></h5>
+                        <span>1st Year, Computer Engineering</span>
+                    </div>
+                </div>
+
+
+                <!-- NEW MEMBER HERE -->
+
+                <div class="col-md-3 col-sm-3" style="margin-bottom:15px">
+                    <div class="team-member">
+                        <div class="team-img">
+                            <img src="img/members/AaronZolla.jpg" id = "Aaron Zolla" alt="photo of Aaron Zolla" class="img-responsive">
+                        </div>
+                        <div class="team-hover">
+                            <div class="desk">
+                                <h4>Baritone</h4>
+                                <p>Quote</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-title">
+                        <h4>Aaron Zolla (he/him)</h4>
+                        <h5></h5>
+                        <span>1st Year, Pre-Political Science</span>
+                    </div>
+                </div>
+
+
+                <!-- NEW MEMBER HERE -->
+
+                <div class="col-md-3 col-sm-3" style="margin-bottom:15px">
+                    <div class="team-member">
+                        <div class="team-img">
+                            <img src="img/members/AndrewWhite.jpg" id = "Andrew White" alt="photo of Andrew White" class="img-responsive">
+                        </div>
+                        <div class="team-hover">
+                            <div class="desk">
+                                <h4>Bass</h4>
+                                <p>Oh, you're still here... - my sister the day I moved out.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-title">
+                        <h4>Andrew White (he/him)</h4>
+                        <h5></h5>
+                        <span>1st Year PhD, Biochemistry and Molecular Biology</span>
+                    </div>
+                </div>
+
+
+                <!-- NEW MEMBER HERE -->
+
+                <div class="col-md-3 col-sm-3" style="margin-bottom:15px">
+                    <div class="team-member">
+                        <div class="team-img">
+                            <img src="img/members/RobsonLittle.jpg" id = "Robson Little" alt="photo of Robson Little" class="img-responsive">
+                        </div>
+                        <div class="team-hover">
+                            <div class="desk">
+                                <h4>Bass</h4>
+                                <p>No worries :)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-title">
+                        <h4>Robson Little (he/him)</h4>
+                        <h5></h5>
+                        <span>2nd Year, Undeclared</span>
+                    </div>
+                </div>
+
+
+                </div>
+                <!-- END OF A FOUR PEOPLE BLOCK -->
+
+    
+                <!-- USE THIS TEMPLATE FOR EACH NEW ROW. REPLACE NAME/MAJOR/PARTS/POSITION/QUOTE PLACEHOLDER -->
+
+                <!-- NEW ROW EVERY 4 MEMBERS -->
+                <!-- LIST NAMES HERE FOR QUICK REFERENCE -->
+                <!--  Nicolas Ferrari -->
+                <div class = "row" style = "margin-top:50px;">
+                    
+                <!-- NEW MEMBER HERE -->
+
+                <div class="col-md-3 col-sm-3" style="margin-bottom:15px">
+                    <div class="team-member">
+                        <div class="team-img">
+                            <img src="img/members/NicolasFerrari.jpg" id = "Nicolas Ferrari" alt="photo of Nicolas Ferrari" class="img-responsive">
+                        </div>
+                        <div class="team-hover">
+                            <div class="desk">
+                                <h4>Baritone</h4>
+                                <p>Honesty's the best policy.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team-title">
+                        <h4>Nicolas Ferrari (he/him)</h4>
+                        <h5></h5>
+                        <span>3rd Year, Psychological and Brain Sciences</span>
                     </div>
                 </div>
 
